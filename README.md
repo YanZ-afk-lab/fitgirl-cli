@@ -29,7 +29,7 @@ A command-line tool (CLI) built with Node.js to search and interact with games f
 
 Run the script in your terminal:
 ```bash
-node index.js
+node CLI.js
 ```
 
 Type the name of the game you want to search, use the arrow keys to select from the results, and press Enter.
@@ -63,7 +63,7 @@ Uma ferramenta de linha de comandos (CLI) criada com Node.js para pesquisar e in
 
 Executa o script no teu terminal:
 ```bash
-node index.js
+node CLI.js
 ```
 
 Digita o nome do jogo que pretendes procurar, usa as setas para selecionar nos resultados e prime Enter.
